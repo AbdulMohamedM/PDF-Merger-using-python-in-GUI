@@ -1,0 +1,8 @@
+'''Modules:
+	1.pyPdf      
+	2.PyPDF2
+'''
+
+#Install:
+pip install PyPDF
+pip install PyPDF2
