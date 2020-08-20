@@ -17,19 +17,19 @@ I have added GUI to the script and it works a bit different as the CLI one, this
 Once you run the `suja pdf merger.py` script you will be presented with the following screen:
 
 <p align="center">
-  <img src="./no_selection.png" alt="normal application"/>
+  <img src="./1.png" alt="normal application"/>
 </p>
 
 Then, select the `.pdf` files you want to merge:
 
 <p align="center">
-  <img src="./selection.png" alt="Selection of pdf files"/>
+  <img src="./2.png" alt="Selection of pdf files"/>
 </p>
 
 Click on the **Run** button and a message will be prompt to you letting you know that final `.pdf` file was created like this:
 
 <p align="center">
-  <img src="./success.png" alt="success creating pdf"/>
+  <img src="./3.png" alt="success creating pdf"/>
 </p>
 
 
