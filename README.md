@@ -1,7 +1,7 @@
 # PDF-Merger
 This is PDF Merger Using fully python in GUI.
 # MergePDF:
-This script will create a final PDF file with multiple PDF files given on a directory. It is based on ~~Python 2.x&Python 3.x~~ Python and it should work on different versions.
+This script will create a final PDF file with multiple PDF files given on a directory. It is based on Python 2.x & Python 3.x Python and it should work on different versions.
 
 ## Quick explanation of the code:
 
