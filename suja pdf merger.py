@@ -1,5 +1,4 @@
-import os
-import sys
+import os , sys
 import tkinter as tk
 from tkinter import filedialog
 from tkinter import messagebox
